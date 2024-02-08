@@ -1,2 +1,5 @@
 console.log('Hello');
-alert('Alert karenge'); 
+var a = 4;
+if(a != 4){
+    console.log('hii');
+}
