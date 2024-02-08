@@ -18,3 +18,8 @@
     background: lightblue;
     color: black;
 }
+.demo{
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 0px 0px 2px red;
+}
